@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "LINEA Airdrop Checker",
-  description: "Check your random $LINEA allocation.",
+  description: "Check your $LINEA allocation.",
 };
 
 export default function RootLayout({
